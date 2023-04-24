@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\bin\Debug\SimpleNeuronNetwork.exe.config
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\bin\Debug\SimpleNeuronNetwork.exe
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\bin\Debug\SimpleNeuronNetwork.pdb
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\obj\Debug\SimpleNeuronNetwork.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\obj\Debug\SimpleNeuronNetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\obj\Debug\SimpleNeuronNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\obj\Debug\SimpleNeuronNetwork.exe
+C:\Users\Alex\source\repos\SimpleNeuronNetwork\SimpleNeuronNetwork\obj\Debug\SimpleNeuronNetwork.pdb
